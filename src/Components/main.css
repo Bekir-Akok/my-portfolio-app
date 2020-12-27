@@ -600,8 +600,9 @@ body{
     margin-bottom: 9rem;
 }
 .nav-menu{
-    top: -5.5%;
+    top: -6%;
     left: 0;
+    transform: translate(0 , 0);
 }
 .card-text{
     flex-direction: column;
@@ -611,7 +612,7 @@ body{
     margin-bottom: 0;
 }
 .card-container{
-    margin-bottom: 4rem;
+    margin-bottom: 7rem;
 }
 .main-down{
     padding: 3rem 2rem;
